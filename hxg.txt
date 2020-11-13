@@ -6,7 +6,7 @@ echo 'modify bug on hotfix branch'
 
 echo 'second modify bug on hotfix branch'
 
-
+echo 'edit by developer'
 
 
 
