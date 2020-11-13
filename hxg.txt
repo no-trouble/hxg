@@ -8,7 +8,7 @@ echo 'second modify bug on hotfix branch'
 
 echo 'edit by developer'
 
-
+echo 'second edit by developer'
 
 
 
